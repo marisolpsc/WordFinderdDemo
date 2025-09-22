@@ -1,0 +1,14 @@
+C:\Users\mporcayo\RiderProjects\WordFinderDemo\bin\Debug\net9.0\WordFinderDemo.exe
+C:\Users\mporcayo\RiderProjects\WordFinderDemo\bin\Debug\net9.0\WordFinderDemo.deps.json
+C:\Users\mporcayo\RiderProjects\WordFinderDemo\bin\Debug\net9.0\WordFinderDemo.runtimeconfig.json
+C:\Users\mporcayo\RiderProjects\WordFinderDemo\bin\Debug\net9.0\WordFinderDemo.dll
+C:\Users\mporcayo\RiderProjects\WordFinderDemo\bin\Debug\net9.0\WordFinderDemo.pdb
+C:\Users\mporcayo\RiderProjects\WordFinderDemo\obj\Debug\net9.0\WordFinderDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mporcayo\RiderProjects\WordFinderDemo\obj\Debug\net9.0\WordFinderDemo.AssemblyInfoInputs.cache
+C:\Users\mporcayo\RiderProjects\WordFinderDemo\obj\Debug\net9.0\WordFinderDemo.AssemblyInfo.cs
+C:\Users\mporcayo\RiderProjects\WordFinderDemo\obj\Debug\net9.0\WordFinderDemo.csproj.CoreCompileInputs.cache
+C:\Users\mporcayo\RiderProjects\WordFinderDemo\obj\Debug\net9.0\WordFinderDemo.dll
+C:\Users\mporcayo\RiderProjects\WordFinderDemo\obj\Debug\net9.0\refint\WordFinderDemo.dll
+C:\Users\mporcayo\RiderProjects\WordFinderDemo\obj\Debug\net9.0\WordFinderDemo.pdb
+C:\Users\mporcayo\RiderProjects\WordFinderDemo\obj\Debug\net9.0\WordFinderDemo.genruntimeconfig.cache
+C:\Users\mporcayo\RiderProjects\WordFinderDemo\obj\Debug\net9.0\ref\WordFinderDemo.dll
